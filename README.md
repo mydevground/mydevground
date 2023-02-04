@@ -4,7 +4,7 @@
 
 I'm a lover of Information Technology and Digital Tranformation. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
 I love sharing knowledge and helping others grow as i improve myself too. I engage with amazing and talented individuals on "[my Linkedin][Linkedin]". Feel free to connect.
-You can also invite me to speack at your tech events.
+You can also "[invite me][Website]" to speack at your tech events.
 
 ---
 
@@ -31,5 +31,5 @@ You can also invite me to speack at your tech events.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+[Website]: https://www.techfirehouse.com/contact 
 [Linkedin]: https://www.linkedin.com/in/gbengaoridupa/
