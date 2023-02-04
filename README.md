@@ -2,7 +2,7 @@
 
 **`Consulting | Hybrid-MultiCloud IT Solution | BI | Analytics Engineer | Data Engineer | DevOps Engineer | Developer || Speaker, Writer, Trainer and Community Leader`**
 
-I'm a lover of Information Technology and Digital Tranformation. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I love sharing knowledge and helping others grow as i improve myself too. I engage with amazing professionals on "[my Linkedin][Linkedin]".
+I'm a lover of Information Technology and Digital Tranformation. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. I love sharing knowledge and helping others grow as i improve myself too. I engage with amazing professionals on "[my Linkedin][Linkedin]".
 
 ---
 
