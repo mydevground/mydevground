@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gbenga Oridupa
+# 🏄‍♂️ I am Gbenga
 
 **`Consulting | Hybrid-MultiCloud IT Solution | BI | Analytics Engineer | Data Engineer | DevOps Engineer | Developer || Speaker, Writer, Trainer and Community Leader`**
 
