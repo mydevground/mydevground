@@ -3,7 +3,7 @@
 **`Tech+Data+Cloud Evangelist | BI | Analytics Engineer | Data Engineer | Data Scientist | AI/ML | DevOps & Cloud Engineer /Architect | System Engineer | SecOps || Developer | Speaker, Writer, Trainer & Leader.`**
 
 I'm a lover of Information Technology and Digital Tranformation. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
-I love sharing knowledge and helping others grow as i improve myself too. I engage with amazing and talented individuals online.Feel free to connect.
+I love sharing knowledge, helping others grow and imporving myself too. I engage with amazing and talented individuals online.Feel free to connect.
 You can also [invite me][Website] to speak at your tech events.
 
 ---
