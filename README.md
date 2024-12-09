@@ -4,7 +4,7 @@
 
 I'm a lover of Information Technology and Digital Tranformation. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
 I love sharing knowledge, helping others grow and learning too. I engage with amazing and talented individuals online and offline. Feel free to connect.
-You can also [invite me][Website] to speak at your tech events.
+You can also invite me to speak at your tech events.
 
 ---
 
