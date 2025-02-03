@@ -1,8 +1,8 @@
 # 🏄‍♂️  I am Gbenga
 
-**`Tech+Data+Cloud Evangelist | BI | Analytics Engineer | Data Engineer | Data Scientist/Analyst | AI/ML | DevOps | Cloud Engineer /Architect | System Engineer | SecOps || Developer | Speaker, Writer, Trainer & Leader.`**
+**`Tech+Data+Cloud Evangelist | Specialist | Speaker, Writer, Trainer & Leader.`**
 
-I'm a lover of Tech+Data+Cloud. All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
+All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
 Following new technological trends and embracing digital transformation is essential for businesses to remain competitive and stay ahead of the curve. By keeping up with customer expectations and undergoing digital transformation in this way, businesses can better position themselves for success in today’s digital world.
 I love sharing knowledge, helping others grow while learning too. I enjoy supporting open source and general tech communities. I engage with amazing and talented individuals online and offline. Feel free to connect.
 You can also invite me to speak at your tech events.
