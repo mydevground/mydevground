@@ -1,6 +1,6 @@
 # 🏄‍♂️  I am Gbenga
 
-**`Tech+Data+Cloud Evangelist | Specialist | Speaker, Writer, Trainer & Leader.`**
+**`Tech+Data+Cloud Evangelist | Data Specialist | Speaker, Writer, Trainer & Leader.`**
 
 All projects are built from the ground up, from planning and designing all the way to solving real-life problems. 
 Following new technological trends and embracing digital transformation is essential for businesses to remain competitive and stay ahead of the curve. By keeping up with customer expectations and undergoing digital transformation in this way, businesses can better position themselves for success in today’s digital world.
