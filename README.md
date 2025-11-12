@@ -3,7 +3,7 @@
 **`Tech+Data+Cloud Evangelist | Data Specialist | Speaker, Writer, Trainer & Leader.`**
 
 All projects are built from the ground up, inlcluding planning, designing, all the way to solving real-life problems. 
-Following new technological trends and embracing digital transformation is essential for businesses to remain competitive and stay ahead of the curve. By keeping up with customer expectations and undergoing digital transformation in this way, businesses can better position themselves for success in today’s digital world. Data is in the middle of everything. 
+Following new technology trends and embracing digital transformation is essential for organizations to remain competitive and stay ahead of the curve. By undergoing digital transformation, companies can better position themselves for success in today’s digital world. Data is in the middle of everything. 
 I love sharing knowledge, helping others grow while learning too. I enjoy supporting open source and general tech communities. I engage with amazing and talented individuals online and offline. Feel free to connect.
 You can also invite me to speak at your tech events.
 
