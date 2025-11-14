@@ -1,4 +1,4 @@
-# 📊  I am Gbenga, a Data Junkie! 🧠
+# I am Gbenga, a Data Junkie! 🧠📊  
 
 **`Tech+Data+Cloud Evangelist | Data Specialist | Speaker, Writer, Trainer & Leader.`**
 
